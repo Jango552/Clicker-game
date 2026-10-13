@@ -1,1 +1,14 @@
 # Clicker-game
+
+
+
+// game data
+
+struct Retainer {
+string name;
+string tagline;
+double baseCost; //pric of the first one
+double stalksPerSec; //output of one retainer
+};
+{'Apprentice", "Swings a practice blade", 15, 0.2},
+{'Ronin", " a wandering swordsman", 100, 1}
